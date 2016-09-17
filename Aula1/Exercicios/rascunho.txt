@@ -1,0 +1,17 @@
+//Sublimetext - Atom - Light Table - Eclipse - Netbeans
+//JetBrains -> Intellij (Java), PhpStorm (PHP)
+
+tempo para processar ate 10000 - primos.php
+real	0m20.199s
+user	0m14.004s
+sys	0m0.160s
+
+tempo para processar ate 10000 - primos1.php
+real	0m19.414s
+user	0m6.396s
+sys	0m1.176s
+
+
+real	0m10.344s
+user	0m8.392s
+sys	0m0.196s
