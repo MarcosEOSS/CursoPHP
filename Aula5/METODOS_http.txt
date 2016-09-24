@@ -1,0 +1,11 @@
+HTTP :: METODOS
+
+GET -> PASSADO NA URL
+
+[HTTP,HTML,NAVEGADOR]
+www.google.com/?q="brazil"
+
+[SERVIDOR,BACKEND,PHP]
+echo "Pesquisando: " . $_GET['q']
+
+POST
